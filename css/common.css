@@ -1,0 +1,8 @@
+:root {
+    /* color common */
+    --color-header: #80BD9E;
+    --color-hover: darkcyan;
+    --color-primary: #89DA59;
+    /* font size */
+    --font-size: 16px;
+}
